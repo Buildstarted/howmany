@@ -12,7 +12,6 @@
     <script type='text/javascript' src='js/jquery.min.js'></script>
     <script type='text/javascript' src='bs/bootstrap.min.js'></script>
 	<script type='text/javascript' src='js/index.js'></script>
-	<script type='text/javascript' src='js/buildHeaderFooter.js'></script>
   </head>
 
   <body class='body' id='body'><form autocomplete='off'>
